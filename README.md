@@ -1,3 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/15dhsDVr)
-# Week-3
-week-3
+![Alt text](image.png)
+
+Bu projede react ile bir eticaret sitesi düzenlenmiş olup. Modal ve stillendirmek için bootstrap kullanılmıştır.
